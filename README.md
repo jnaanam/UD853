@@ -16,12 +16,11 @@ For chapter specific updates or notes, click the relevant chapter link.
 The end goal for this course is to build a full-featured Android app called "Sunshine" which will showcase usage of Android Features like activities, content providers, services, notificaions, settings, loaders and data sync, complex views and layouts.
 
 
-# Resources
+## Resources
 
 Some useful resources for reviewing this material later:
 
  * [Android Studio User Guide](https://developer.android.com/studio/projects/index.html)
  * [Course GitHub Repo](https://github.com/udacity/Sunshine-Version-2) last updated Feb 2015, with [Instructions](https://classroom.udacity.com/courses/ud853/lessons/1395568821/concepts/37275386660923) on how to navigate it.
  * [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-
-
+ * [Android Version Dashboard](http://developer.android.com/about/dashboards/index.html)
