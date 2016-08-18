@@ -69,6 +69,8 @@ Or go [here](https://github.com/udacity/Sunshine-Version-2/blob/1.06_attach_adap
  * Can a ListView have items with different display views? (i.e., first item looks different from others, or odd items differ in appearance from even ones)
  * What is the application "Context"? How do you access it?
  * What is "R.java"? Who generates it and how is it generated?
+ * What is the "android:supportsRtl" property in Android Manifest? (A: it set to true, it declares that your app supports right-to-left layouts; else only left-to-right layout supported by default)
+ * What are mipmap? When do we use mipmap- folders (vs. drawable- folders)?
 
 
 
